@@ -50,3 +50,7 @@ jobs:
           from_step: 2
           to_step: 3
           branch_name: my-pages
+          theme: minima
+          title: github pages
+          author: Chathra Navoda
+          description: Try out github pages 
